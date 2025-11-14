@@ -28,8 +28,8 @@ Google Colab
 
 **Project Structure**
 ├── Spotify_dataset.csv
-├── project2.ipynb      # Google Colab Notebook
-├── project2(1).py         # Python Script
+├── PROJECT2.ipynb      # Google Colab Notebook
+├── project2 (1).py         # Python Script
 └── README.md
 
 **How to Run the Project**
@@ -37,10 +37,10 @@ Google Colab
 git clone https://github.com/Nagilameher45/Artificial-Intelligence.git
 
 2. Open the notebook in Google Colab or Jupyter:
-Project2.ipynb
+PROJECT2.ipynb
 
 3. Or run the Python script:
-python project2(1).py
+python project2 (1).py
 
 **Main Features**
 ✔ 1. Missing Value Handling
